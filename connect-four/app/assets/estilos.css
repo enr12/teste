@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(113, 177, 230);
+}
+
+#div1 {
+  height: 40px;
+  background-color: black;
+}
+
+.buttom1 {
+float: right;
+border-radius: 17px;
+border: none;
+margin-right: 20px;
+margin-top: 12px;
+}
